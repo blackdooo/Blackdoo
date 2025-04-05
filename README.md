@@ -1,7 +1,7 @@
 # Hey there! 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/35467.gif">
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - i am a Graphics designer, video editor, mechatronics engineer, AI developer and cybernetic developer.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/5132.gif">
 
 ### - Learning :
 
@@ -23,10 +23,12 @@
 - ✨ self learning ai
 
 ### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+
+- ✨ eat and eat
+- ✨ movies
+- ✨ programming
+- ✨ sleeping
+
 
 </br>
 </br>
@@ -67,10 +69,10 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
+<a href="mailto:">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
+<a href="">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
