@@ -18,7 +18,7 @@
 ### - Learning :
 
 - New development structures
-- Opengl & c++ complex systems
+- Opengl & C++ complex systems
 - Rocket system
 - Self learning ai
 
