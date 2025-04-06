@@ -70,7 +70,7 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://img.icons8.com/?size=48&id=13826&format=png"/>
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://img.icons8.com/?size=24&id=89362&format=png"/>
 </a>
 <a href="">
   <img align="left" alt="Instagram" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
