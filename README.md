@@ -91,10 +91,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 
-<a href="mailto:">
+<a href="mailto:Dipvpn465@gmail.com">
  <img align="left" alt="Gmail" width="50" hight="50" src="https://img.icons8.com/?size=100&id=qbiAUnUMOnLp&format=png&color=000000"/>
 </a>
-<a href="">
+<a href="https://www.instagram.com/_darkloom_?igsh=YXBpeWN0c3U0MXFi">
   <img align="right" alt="Instagram" width="50" hight="50" src="https://img.icons8.com/?size=100&id=hK7HDtSy9QsB&format=png&color=000000"/>
 </br>
 </br>
