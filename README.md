@@ -11,23 +11,23 @@
 
 # About ME 💬 :
 
-### - i am a Graphics designer, video editor, mechatronics engineer, AI developer and cybernetic developer.
+### - I am a Graphics designer, video editor, mechatronics engineer, AI developer and cybernetic developer.
 
 <img hight="500" width="600" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/15682.gif">
 
 ### - Learning :
 
 - ✨ Data Structures & Algorithms
-- ✨ opengl + c++ complex system
+- ✨ Opengl + c++ complex system
 - ✨ Rocket system
-- ✨ self learning ai
+- ✨ Self learning ai
 
 ### - Hobbies : 
 
-- ✨ eat and eat
-- ✨ movies
-- ✨ programming
-- ✨ sleeping
+- ✨ Eat and eat
+- ✨ Movies
+- ✨ Programming
+- ✨ Sleeping
 
 
 </br>
