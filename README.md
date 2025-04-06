@@ -70,10 +70,10 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:">
- <img align="center" alt="Gmail" width="50" hight="50" src="https://img.icons8.com/?size=100&id=qbiAUnUMOnLp&format=png&color=000000"/>
+ <img align="left" alt="Gmail" width="50" hight="50" src="https://img.icons8.com/?size=100&id=qbiAUnUMOnLp&format=png&color=000000"/>
 </a>
 <a href="">
-  <img align="center" alt="Instagram" width="50" hight="50" src="https://img.icons8.com/?size=100&id=hK7HDtSy9QsB&format=png&color=000000"/>
+  <img align="left" alt="Instagram" width="50" hight="50" src="https://img.icons8.com/?size=100&id=hK7HDtSy9QsB&format=png&color=000000"/>
 </br>
 </br>
 </br>
@@ -81,7 +81,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 
-<p align="left" >  
+<p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=blackdooo&&show_icons=true&theme=radical"/>
   </a>
