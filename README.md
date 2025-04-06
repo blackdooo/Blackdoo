@@ -78,10 +78,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 
 <a href="mailto:">
- <img align="center" alt="Gmail" width="50" hight="50" src="https://img.icons8.com/?size=100&id=qbiAUnUMOnLp&format=png&color=000000"/>
+ <img align="left" alt="Gmail" width="50" hight="50" src="https://img.icons8.com/?size=100&id=qbiAUnUMOnLp&format=png&color=000000"/>
 </a>
 <a href="">
-  <img align="center" alt="Instagram" width="50" hight="50" src="https://img.icons8.com/?size=100&id=hK7HDtSy9QsB&format=png&color=000000"/>
+  <img align="right" alt="Instagram" width="50" hight="50" src="https://img.icons8.com/?size=100&id=hK7HDtSy9QsB&format=png&color=000000"/>
 </br>
 </br>
 </br>
