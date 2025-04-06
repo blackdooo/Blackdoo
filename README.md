@@ -13,7 +13,7 @@
 
 ### - I am a Graphics designer, video editor, mechatronics engineer, AI developer and cybernetic developer.
 
-<img hight="450" width="550" alt="GIF" align="right" src="http://pa1.narvii.com/5725/8f1ad7928cb80caa74330b5b9bdf480c82aadce9_hq.gif">
+<img hight="499" width="599" alt="GIF" align="right" src="http://pa1.narvii.com/5725/8f1ad7928cb80caa74330b5b9bdf480c82aadce9_hq.gif">
 
 ### - Learning :
 
