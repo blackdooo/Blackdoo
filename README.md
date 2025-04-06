@@ -70,10 +70,10 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://www.flaticon.com/free-animated-icon/email_8717907?term=email&page=1&position=3&origin=search&related_id=8717907" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.zKFP3AC1h8fxbqpZViysLgHaHa%26pid%3DApi&f=1&ipt=a117019614361b754ae894d83d09f79c80bdfe1e0aca81d18ae09ed909f1ceb1&ipo=images" />
 </a>
 <a href="">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+  <img align="left" alt="Instagram" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
