@@ -63,17 +63,17 @@
 
 # Contact Me :
 
-<p>
+<p> align="center"
  </br>
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:">
- <img align="right" alt="Gmail" width="50" hight="50" src="https://img.icons8.com/?size=100&id=qbiAUnUMOnLp&format=png&color=000000"/>
+ <img alt="Gmail" width="50" hight="50" src="https://img.icons8.com/?size=100&id=qbiAUnUMOnLp&format=png&color=000000"/>
 </a>
 <a href="">
-  <img align="right" alt="Instagram" width="50" hight="50" src="https://img.icons8.com/?size=100&id=hK7HDtSy9QsB&format=png&color=000000"/>
+  <img alt="Instagram" width="50" hight="50" src="https://img.icons8.com/?size=100&id=hK7HDtSy9QsB&format=png&color=000000"/>
 </br>
 </br>
 </br>
