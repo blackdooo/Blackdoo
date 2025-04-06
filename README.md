@@ -62,9 +62,23 @@
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/intellij.png" alt="intellij" width="150" hight="50">
 </p>
 </br>
-</br>
-</br>
 
+
+
+# Status :
+
+</br>
+</br>
+</a>
+
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=blackdooo&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
+</br>
 
 
 # Contact Me :
@@ -87,14 +101,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
  
-</a>
 
-
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=blackdooo&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
 
 *************
