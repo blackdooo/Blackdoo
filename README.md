@@ -70,10 +70,10 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://img.icons8.com/?size=100&id=13826&format=png&color=000000"/>
+ <img align="left" alt="Gmail" width="50" hight="50" src="https://img.icons8.com/?size=100&id=13826&format=png&color=000000"/>
 </a>
 <a href="">
-  <img align="left" alt="Instagram" width="150" hight="100" src="https://img.icons8.com/?size=100&id=tN8gey28ngcJ&format=png&color=000000" />
+  <img align="left" alt="Instagram" width="50" hight="50" src="https://img.icons8.com/?size=100&id=tN8gey28ngcJ&format=png&color=000000" />
 </br>
 </br>
 </br>
