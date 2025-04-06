@@ -1,7 +1,7 @@
 # Hey there! 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-224.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.O1svHLRKGxLNaFD8TfUHdQHaEI%26pid%3DApi&f=1&ipt=f992040796493a5a04eae9e83d8ea6c307c9f0c76fb0caf93e5d20d30aa054da&ipo=images">
 </div>
 
 </br>
