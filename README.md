@@ -1,7 +1,7 @@
 # Hey there  <a href="https://github.com/avelino"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a> !
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://64.media.tumblr.com/f010cdb5025d27d40de71a28b73dd52d/tumblr_pha1ouuRAS1v57tj1o1_500.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://25.media.tumblr.com/56434fd916e481c0e6e2bebd8c02adcf/tumblr_mu6irziRZ71ss9fgwo1_1280.gif">
 </div>
 
 </br>
