@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hey there  <a href="https://github.com/avelino"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a> !
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://gifdb.com/images/featured/funny-anime-wcyq1vkcq6ge5fzc.gif">
@@ -17,8 +17,8 @@
 
 ### - Learning :
 
-- ✨ Data Structures & Algorithms
-- ✨ Opengl + c++ complex system
+- ✨ New development structures
+- ✨ Opengl & c++ system dev
 - ✨ Rocket system
 - ✨ Self learning ai
 
