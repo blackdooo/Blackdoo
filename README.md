@@ -77,6 +77,17 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=blackdooo&&show_icons=true&theme=radical"/>
   </a>
+  &nbsp &nbsp &nbsp
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackdooo&theme=tokyonight" alt="mystreak"/>
+</br>
+</br>
+</br>
+
+<img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
+<img alt="followers" src="https://img.shields.io/github/followers/blackdooo?label=Followers&style=social">
+<img src="https://img.shields.io/github/stars/blackdooo?label=Stars" alt="stars">
+<img src="https://komarev.com/ghpvc/?username=blackdooo&color=brightgreen" alt="watching_count" />
+
   </p>
 
 </br>
