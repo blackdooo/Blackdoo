@@ -21,7 +21,7 @@
 - Opengl & C++ complex systems
 - Rocket system
 - Self learning ai
-- Satelite structures
+- Satelite control structures
 
 ### - Hobbies : 
 
