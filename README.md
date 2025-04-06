@@ -1,7 +1,7 @@
 # Hey there! 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media.tenor.com/SjIqvVizyLQAAAAC/anime-funny.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://gifdb.com/images/featured/funny-anime-wcyq1vkcq6ge5fzc.gif">
 </div>
 
 </br>
