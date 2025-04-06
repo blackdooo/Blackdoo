@@ -78,7 +78,7 @@
 <img hight="400" width="400"  src="https://github-readme-stats.vercel.app/api?username=blackdooo&&show_icons=true&theme=radical"/>
   </a>
   &nbsp &nbsp
-  <img hight="400" width="420"src="https://github-readme-streak-stats.herokuapp.com/?user=blackdooo&theme=tokyonight" alt="mystreak"/>
+  <img hight="400" width="423"src="https://github-readme-streak-stats.herokuapp.com/?user=blackdooo&theme=tokyonight" alt="mystreak"/>
 </br>
 </br>
 </br>
