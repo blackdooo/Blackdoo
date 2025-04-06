@@ -32,7 +32,7 @@
 </br>
 </br>
 
-> NOTE: All my learnings are moving under special permissions and trained professionals especially  self learning ai , This kind of projects may cuz many problems and it can be very dangerous so do things only if u know what you are doing.
+> NOTE: All my learnings are doing under special permissions and trained professionals especially  self learning ai , This kind of projects may cuz many problems and it can be very dangerous so do things only if u know what you are doing.
 
 </br>
 </br>
