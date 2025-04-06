@@ -70,7 +70,7 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://icons8.com/icon/13826/email" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://www.flaticon.com/free-animated-icon/email_8717907?term=email&page=1&position=3&origin=search&related_id=8717907" />
 </a>
 <a href="">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
